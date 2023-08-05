@@ -14,9 +14,9 @@ This project was a part of the project assessment in the **'AWS Machine Learning
 ### 2.1. Project files related information:
 
 **1. `Project2_Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker.ipynb`:** Jupyter notebook showcases a machine learning working workflow for Image Classification. This includes the necessary preprocessing of the scones unlimited image dataser, model training, deployment and monitor using Amazon SageMaker and other associated AWS Services.<br><br>
-**2. `Lambda.py` script:** `compilation of the necessary 'lambda.py' scripts used by three AWS Lambda functions to create a Step Functions workflow`.<br><br>
+**2. `Lambda.py` script:** compilation of the necessary 'lambda.py' scripts used by three AWS Lambda functions to create a Step Functions workflow.<br><br>
 **3. `Screenshot-of-Working-Step-Function.PNG`:** screen capture of working step function. <br><br>
-**4. `step-function.json`:** Step Function exported to JSON<br><br>
+**4. `step-function.json`:** Step Function exported to JSON. <br><br>
 
 ### 2.2. Dependencies
 ```
